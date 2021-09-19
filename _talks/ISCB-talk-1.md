@@ -7,7 +7,7 @@ venue: "42nd Annual Conference of the International Society for Clinical Biostat
 date: 2021-07-21
 location: "Lyon, France"
 ---
-I presented a joint work done with Prof. Giampiero Marra (UCL), Dr. Manuela Quaresma (LSHTM), Dr. Rosalba Radice (Business School, City, University of London) and Dr. Francisco Javier Rubio (UCL) entitled "A unifying framework for flexible excess hazard modeling with applications in cancer epidemiology". A brief abstract follows.
+I presented a joint work done with Prof. Giampiero Marra (UCL), Dr. Manuela Quaresma (LSHTM), Dr. Rosalba Radice (Business School, City, University of London) and Dr. Francisco Javier Rubio (UCL) entitled "A unifying framework for flexible excess hazard modeling with applications in cancer epidemiology". The video presentation of the slides used at the conference can be found at https://youtu.be/YOuhMSqAuA8. A brief abstract follows.
 
 Excess hazard modeling has become the preferred tool in population-based cancer survival research as it overcomes drawbacks of both the traditional overall survival setting as well as of the cause-specific setting. This is achieved by assuming an additive decomposition of the overall hazard into two components: the excess hazard, e.g. due to the cancer of interest, and the population hazard due to all other causes of death.
 
