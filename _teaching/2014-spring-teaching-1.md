@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "UCL Department of Statistical Science Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+type: "Undergraduate courses"
+permalink: /teaching/teaching_assistant
 venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+date: 2020-09 - ongoing
+location: "London,  UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+As I hold a departmentally-funded Teaching Assistant Studentship, I spend a total of 6 months of my time in a given year teaching. This includes assisting in workshops on undergraduate-level modules of statistics and probability, computer tutorials using the statistical software R and marking.
