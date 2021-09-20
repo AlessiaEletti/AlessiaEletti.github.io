@@ -2,7 +2,7 @@
 title: "Talk on "A unifying framework for flexible excess hazard modeling with applications in cancer epidemiology""
 collection: talks
 type: "Talk"
-permalink: /talks/ISCB-talk-1
+permalink: /talks/2021-ISCB-talk-1
 venue: "42nd Annual Conference of the International Society for Clinical Biostatisticians (ISCB)"
 date: 2021-07-21
 location: "Lyon, France"
