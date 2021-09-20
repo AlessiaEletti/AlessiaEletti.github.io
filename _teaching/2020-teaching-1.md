@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/teaching_assistant
 date: 2020-09-27 - 2024-09-27
+venue: "Department of Statistical Science"
 location: "London,  UK"
 ---
 
