@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/teaching_assistant
 venue: "University 1, Department"
-date: 2020-09 - ongoing
+date: 2020-09-27 - ongoing
 location: "London,  UK"
 ---
 
