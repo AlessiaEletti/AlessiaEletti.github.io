@@ -3,7 +3,7 @@ title: "UCL Department of Statistical Science Teaching Assistant"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/teaching_assistant
-venue: "University 1, Department"
+venue: ""
 date: 2020-09-27 - ongoing
 location: "London,  UK"
 ---
