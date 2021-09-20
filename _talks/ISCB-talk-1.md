@@ -1,5 +1,5 @@
 ---
-title: "Talk 1 on "A unifying framework for flexible excess hazard modeling with applications in cancer epidemiology""
+title: "Talk on "A unifying framework for flexible excess hazard modeling with applications in cancer epidemiology""
 collection: talks
 type: "Talk"
 permalink: /talks/ISCB-talk-1
